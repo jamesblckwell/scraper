@@ -29,6 +29,7 @@ const ignoreUrls = ['https://pando.es/en/placa-de-gas-90-ref-pga-4491-touch-cont
         'https://pando.es/en/dishwashers-pando/',
         'https://pando.es/en/wine-coolers/',
         'https://pando.es/en/pando-beverage-cooler/',
+        'https://pando.es/en/integration-hoods/'
     ];
 
     urls.forEach(async (url) => {
